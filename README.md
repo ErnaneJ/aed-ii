@@ -14,7 +14,7 @@ Exercises/projects and notes referring to the discipline of Algorithms and Data 
 
 This course is organized into weeks so we will have a project/assignment each week.
 
-#### ✅ 1st week 
+#### ✅ Week 01
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/Week_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
 -  🎉 GitHub Education Benefits
     - GitHub Education Pro: Get access to the GitHub Education Pro pack by visiting [GitHub Education](https://education.github.com/pack)
@@ -28,5 +28,13 @@ This course is organized into weeks so we will have a project/assignment each we
     - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
     - Happy coding! 💻🚀
 
-#### ☑️ 2nd week
+#### ✅ Week 02
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/week_02.pdf) **Review:** topics covered include Recursion, Binary Search Trees (BST), and AVL Trees.
+- 🎯 Week Goals 
+    - Your main goal for this week is related to following subjects: recursion, binary and avl trees. By the conclusion, you'll have the ability to distinguish between iteration and recursion, learn how to construct and query datasets using Binary Search Trees (BST) and get acquaninted with AVL trees.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**: dive into recursion and explore the implementation and analysis of the Merge Sort algorithm.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**: build and analyze the performance of a Binary Search Tree.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**: learn the mechanics behind AVL trees, self-balancing binary search trees, and their implementation.
+
+#### ☑️ Week 03
 ...
