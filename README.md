@@ -36,5 +36,9 @@ This course is organized into weeks so we will have a project/assignment each we
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**: build and analyze the performance of a Binary Search Tree.
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**: learn the mechanics behind AVL trees, self-balancing binary search trees, and their implementation.
 
+- **Implementation and results**:
+    - Video: [Youtu.be](https://youtu.be/YEC9Cmab6R8?si=ZDC8I6yll2XsJNIF)
+    - Implementation: [Folder](./week_02_autocomplete_words/)
+
 #### ☑️ Week 03
 ...
