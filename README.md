@@ -40,5 +40,28 @@ This course is organized into weeks so we will have a project/assignment each we
     - Video: [Youtu.be](https://youtu.be/YEC9Cmab6R8?si=ZDC8I6yll2XsJNIF)
     - Implementation: [Folder](./week_02_autocomplete_words/)
 
-#### ☑️ Week 03
-...
+### Week 3
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_03/Complexity_of_Algorithms_Part_I.pdf) **Complexity of Algorithms I:** Fundamentals and notations, time and space complexity.
+    - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to Calculate the Complexity of the Most Common Use Cases Algorithms**: Linear, quadratic, and constant complexity.
+        - Fundamentals of Algorithms Complexity I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
+        - Fundamentals of Algorithms Complexity II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
+        - :hourglass_flowing_sand: Estimated time: 30min
+    - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Notations.pdf)  **Notations**: Linear, quadratic, and constant complexity.
+        - Big O Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1e67c2e7b8d349c6923d341d182e28bb)
+        - Big <span>&Omega;</span> Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4)
+        - Big <span>&Theta;</span> Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
+        - :hourglass_flowing_sand: Estimated time: 30min
+- Let's Practice!
+    - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476)
+        - :facepunch: **Skills You'll Gain**: You will learn how to a) measure the execution time of an algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
+        - :hourglass_flowing_sand: Estimated time: 1h
+    - Constant Time Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477)
+        - :facepunch: **Skills You'll Gain**: You will learn how to a) identify constant time operations; b) understand how computers manage memory; c) refine computing time complexity models; d) identify hidden function calls in Python; e) understand how lists and strings are stored in memory.
+        - :hourglass_flowing_sand: Estimated time: 2h
+
+### Week 4
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Log_Complexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity  
+    - Crash course about Logarithmic time complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478)
+        - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
+        - :hourglass_flowing_sand: Estimated time: 1h
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Guided Project**: Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT.
