@@ -60,4 +60,4 @@ Para acessar o código-fonte deste projeto, confira [aqui](./main.py).
 
 ### Vídeo Explicativo 📹
 
-Um vídeo explicativo deste projeto está disponível [aqui](./video.mp4). 🚀
+Um vídeo explicativo deste projeto está disponível [aqui](https://youtu.be/6SVGo-bCRIs). 🚀
