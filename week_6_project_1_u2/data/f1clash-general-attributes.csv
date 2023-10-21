@@ -1,0 +1,49 @@
+name,speed,cornering,power_unit,reliability,avg_pitstop_time,category
+Breakes Wildcore,36,23,33,22,0.59,Breaks
+Breakes Suspense,20,32,23,21,0.37,Breaks
+Breakes The Warden,26,28,27,25,0.43,Breaks
+Breakes Onyx,26,23,25,50,0.49,Breaks
+Breakes Axiom,14,34,18,15,0.67,Breaks
+Breakes Crisis SL,27,16,18,19,0.51,Breaks
+Breakes Essence,14,13,12,25,0.76,Breaks
+Breakes Starter,1,1,1,1,1.00,Breaks
+GearBox Voyage,23,28,22,27,0.00,GearBox
+GearBox Vector,24,38,22,36,0.55,GearBox
+GearBox Kick Shift,18,19,29,19,0.45,GearBox
+GearBox Verdict,33,18,20,30,0.63,GearBox
+GearBox Spectrum,20,25,21,23,0.53,GearBox
+GearBox Swiftcharge,14,23,22,16,0.71,GearBox
+GearBox Switch-R-00,12,13,11,14,0.47,GearBox
+GearBox Starter,1,1,1,1,1.00,GearBox
+Rear Wing Typhoon,50,27,26,23,0.53,Rear Wing
+Rear Wing Transcendence,24,22,36,37,0.53,Rear Wing
+Rear Wing Freeflare,21,33,20,22,0.37,Rear Wing
+Rear Wing The Patron,23,21,19,37,0.61,Rear Wing
+Rear Wing The Wasp,14,24,23,14,0.69,Rear Wing
+Rear Wing The Matador,19,16,18,17,0.72,Rear Wing
+Rear Wing Phanton,26,15,12,11,0.76,Rear Wing
+Rear Wing Starter,1,1,1,1,1.00,Rear Wing
+Front Wing Virtue,23,50,27,24,0.49,Front Wing
+Front Wing Thunderclap,35,23,21,33,0.55,Front Wing
+Front Wing Trailblazer,21,23,42,20,0.57,Front Wing
+Front Wing Zeno,25,23,22,26,0.53,Front Wing
+Front Wing The Vagabond,31,20,23,21,0.35,Front Wing
+Front Wing Feral Punch,13,15,22,21,0.73,Front Wing
+Front Wing The Scout,13,27,15,14,0.73,Front Wing
+Front Wing Starter,1,1,1,1,1.00,Front Wing
+Suspension Sigma,32,28,30,23,0.39,Suspension
+Suspension Presence,23,26,24,22,0.20,Suspension
+Suspension Horizon,22,36,24,37,0.53,Suspension
+Suspension Radiance,25,17,26,19,0.65,Suspension
+Suspension Icon V3,17,13,16,23,0.54,Suspension
+Suspension Rodeo,23,22,15,14,0.69,Suspension
+Suspension The Equator,20,19,18,21,0.61,Suspension
+Suspension Starter,1,1,1,1,1.00,Suspension
+Engine Cloudroar,26,24,50,27,0.55,Engine
+Engine Avalanche,34,22,25,21,0.35,Engine
+Engine The Rover,27,25,28,24,0.53,Engine
+Engine Twinburst,16,29,18,17,0.51,Engine
+Engine Enigma,16,13,23,25,0.69,Engine
+Engine Nova,31,13,15,16,0.71,Engine
+Engine Brute Force,21,19,36,18,0.63,Engine
+Engine Starter,1,1,1,1,1.00,Engine
