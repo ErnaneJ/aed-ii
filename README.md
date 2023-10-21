@@ -65,3 +65,27 @@ This course is organized into weeks so we will have a project/assignment each we
         - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
         - :hourglass_flowing_sand: Estimated time: 1h
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Guided Project**: Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT.
+
+### Week 5
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Network_Elements_1.pdf) **Network Fundamentals I**: Outline, applications, math and graph theory. 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Network_Elements_2.pdf) **Network Fundamentals II**: Probability, extended graphs, matrices, degree and representation.
+    - Basic Definitions [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/aa7b736bc2b24d599efa7b24d96edc72)
+    - Extended Graphs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8646b007d7ac4aa485430a3a7c487480)
+    - Density, Sparsity and Subnetworks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/49175fd385d94ae58831921cd53f715c)
+    - Degree and Network Representation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcaf192f492a413984d7b183edf06ce2)
+    - :hourglass_flowing_sand: Estimated time: 2h
+- 🛠 **Hands on**
+    - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb)
+
+
+## Week 6
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/F1Clash.pdf) **Project**: [F1 Clash](https://www.hutch.io/our-games/f1-clash/) on Graph
+
+#### Assignment
+
+The assignment of this week was developed by [Ernane Ferreira](https://github.com/ErnaneJ) and [Raphael Ramos](https://github.com/raphaelramosds).
+
+[1] [Week 6 - Assignment (Video explanation)](https://drive.google.com/file/d/1q58a7MV7q7j5HUq7IcVU9Hwh14xR9fKk/view?usp=share_link)
+[2] [Week 6 - Assignment (Code solution)](./week-6/Week%206%20-%20Assignment.ipynb)
+[3] [Week 6 - Assignment (Results explanation)](./week-6/README.md)
