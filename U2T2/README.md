@@ -15,11 +15,16 @@ Explorer os conteúdos das semanas 7 e 8.
 
 ## Requisito 01 - Escolher pelo menos 5 redes do dataset acima
 
-1. [Communication networks](https://snap.stanford.edu/data/#email)
-2. [Amazon - Product co-purchasing networks](https://snap.stanford.edu/data/#amazon)
-3. [Autonomous systems graphs](https://snap.stanford.edu/data/#as)
-4. [Temporal networks](https://snap.stanford.edu/data/#temporal)
-5. [*Memetracker* and Twitter](https://snap.stanford.edu/data/#twitter)
+1. [E-mail EuAll](https://snap.stanford.edu/data/email-EuAll.html)
+    - Email network of a large European Research Institution
+2. [High Energy Physics - Theory collaboration network](https://snap.stanford.edu/data/ca-HepTh.html)
+    - Collaboration network of Arxiv High Energy Physics Theory category
+3. [RoadNet PA](https://snap.stanford.edu/data/roadNet-PA.html)
+    - Pennsylvania road network
+4. [P2P Gnutella 09](https://snap.stanford.edu/data/p2p-Gnutella09.html)
+    - Directed Gnutella P2P network from August 9 2002
+5. [Higgs Twitter](https://snap.stanford.edu/data/higgs-twitter.html)
+    - The dataset provides information about activity on Twitter during the discovery of Higgs boson
 
 ## Requisito 02
 
