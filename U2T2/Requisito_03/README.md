@@ -1,6 +1,6 @@
-# Requirement III
+# Requisito III - Dados das Redes
 
-Reproduce the table below for each of the chosen networks.
+A tabela apresentada abaixo oferece pontos importantes sobre como as redes escolhidas neste estudo estão organizadas e interconectadas. Métricas como assortatividade de grau, componentes conectados, tamanho do maior componente conectado (GCC) e coeficiente de agrupamento são utilizadas para descrever e compreender as propriedades das redes, tais como a densidade de conexões, a fragmentação da rede e a tendência de nós com graus semelhantes a se unirem.
 
 |                     -                    | Qtd. Vértices| Qtd. Arestas | Degree assortativity coefficient | Qtd Comp. Conectados | Tamanho do Comp. Gigante (GCC)  | Coef. de Clustering avg_clustering()|
 |:-----------------------------------------|:------------:|:------------:|:-------------------------------:|:--------------------:|:-------------------------------:|:-----------------------------------:|
@@ -9,3 +9,15 @@ Reproduce the table below for each of the chosen networks.
 | ca-HepTh-processed                       | 9877         | 25998        | 0.267495                        | 429                  | 8638                            | 0.471439                            |
 | p2p-Gnutella09-processed                 | 8114         | 26013        | 0.033224                        | 6                    | 8104                            | 0.009526                            |
 | higgs-activity_time                      | 304691       | 457555       | -0.063312                       | 13408                | 272861                          | 0.103407                            |
+
+A rede "email-EuAll-processed" possui 265.214 vértices. Ela também tem uma densidade razoável, com 365.570 arestas, indicando uma quantidade significativa de conexões. O coeficiente de assortatividade de grau é -0.178188, sugerindo uma tendência negativa de conexões entre nós de diferentes graus. A rede é fragmentada em 15.836 componentes conectados, o que indica fragmentação. O tamanho do componente gigante (GCC) é menor que o número total de vértices, com 224.832 vértices na maior componente. O coeficiente de clustering médio é de 0.067085, sugerindo a presença de agrupamentos locais na rede, embora não tão fortes.
+
+A rede "roadNet-PA-processed" é muito maior, com 1.088.092 vértices, e também densa, com 1.541.898 arestas. O coeficiente de assortatividade de grau é positivo, 0.122749, indicando uma tendência positiva de conexões entre nós de graus semelhantes. A rede é fragmentada em 206 componentes conectados, e o tamanho do GCC é menor que o número total de vértices, com 1.087.562 vértices na maior componente. O coeficiente de clustering médio é de 0.046477, sugerindo a presença de agrupamentos locais, mas com uma força moderada.
+
+A rede "ca-HepTh-processed" tem 9.877 vértices e 25.998 arestas, o que a torna menor e mais densa em relação ao seu tamanho. O coeficiente de assortatividade de grau é positivo, 0.267495, indicando uma forte tendência positiva de conexões entre nós de graus semelhantes. A rede é fragmentada em 429 componentes conectados, e o tamanho do GCC é menor, com 8.638 vértices na maior componente. O coeficiente de clustering médio é alto, 0.471439, sugerindo a presença de agrupamentos locais muito fortes.
+
+A rede "p2p-Gnutella09-processed" possui 8.114 vértices e 26.013 arestas, tornando-a menor e densa em relação ao seu tamanho. O coeficiente de assortatividade de grau é positivo, 0.033224, indicando uma tendência positiva de conexões entre nós de graus semelhantes. A rede é relativamente fragmentada em 6 componentes conectados, e o tamanho do GCC é menor, com 8.104 vértices na maior componente. O coeficiente de clustering médio é baixo, 0.009526, sugerindo a presença de agrupamentos locais fracos.
+
+A rede "higgs-activity_time" possui 304.691 vértices e 457.555 arestas, tornando-a consideravelmente maior do que as redes anteriores. O coeficiente de assortatividade de grau é negativo, -0.063312, sugerindo uma tendência negativa de conexões entre nós de diferentes graus. A rede é fragmentada em 13.408 componentes conectados, e o tamanho do GCC é menor, com 272.861 vértices na maior componente. O coeficiente de clustering médio é de 0.103407, indicando a presença de agrupamentos locais na rede, embora não sejam muito fortes.
+
+Essas análises fornecem informações importantes sobre a estrutura e conectividade das redes escolhidas, destacando suas características distintas e métricas relevantes para compreender o comportamento e dinâmica de cada uma delas.
