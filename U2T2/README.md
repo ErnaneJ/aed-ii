@@ -55,6 +55,10 @@ Desenvolver tabela específica com base na apresentada no slide de requerimento 
 - [Requirements](./U2T2.pdf);
 - [Requisito](./Requisito_03/README.md).
 
+## Requisito 04
+
+- [Vídeo](https://youtu.be/6jLlypJsY9o).
+
 ## Referências
 
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/);
